@@ -1,0 +1,9 @@
+Debug
+*.mk
+*.project
+compile_flags.txt
+*.sln
+*.user
+*.filters
+*.vs
+*.vcxproj
