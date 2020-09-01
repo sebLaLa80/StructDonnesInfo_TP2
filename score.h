@@ -13,7 +13,7 @@ private:
 public:
     Score(long partie, std::string nom, long score) {
         this->partie = partie;
-        nom_joueur = nom;
+        this->nom_joueur = nom;
         this->score = score;
     }
 
